@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '9201'
     url: http://www.gutenberg.org/2009/agents/9201
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20279#The-Veterinarian
 gutenberg_issued: '2007-01-04'
 gutenberg_type: Text
 identifiers:
