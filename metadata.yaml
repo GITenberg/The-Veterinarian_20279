@@ -1,0 +1,25 @@
+_repo: The-Veterinarian_20279
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Korinek, Charles James
+    birthdate: 1880
+    gutenberg_agent_id: '9201'
+    url: http://www.gutenberg.org/2009/agents/9201
+description: ''
+gutenberg_issued: '2007-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20279'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Veterinary medicine'
+- !lcc 'SF'
+title: The Veterinarian
+url: http://www.gutenberg.org/ebooks/20279
